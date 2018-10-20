@@ -1,0 +1,30 @@
+{
+    "id": "fbfc6519-ff50-4df3-bc14-004834c03284",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "fbfc6519-ff50-4df3-bc14-004834c03284",
+    "children": [
+        "f362d2b0-73d1-461b-9bd4-115821b2fe58",
+        "71b9b6bf-b539-46cf-a96b-952e5e9584a5",
+        "7ca3564d-3f83-45c1-8c4e-abf57734f46e",
+        "0cc9804d-6d9c-4124-aa6f-b959ce62d30b",
+        "32d6c371-ed59-4ab9-8a1d-afe59028896b",
+        "442d69ea-86ae-4c51-9c40-c289d1b8e4f3",
+        "c858c554-bd8d-4896-9463-c44730b79dc7",
+        "519e0639-c4b4-477b-8ab8-d42f6f198a46",
+        "d9f30282-dda3-4d5f-b3f9-650ae22fec99",
+        "cf4f9e4a-4a63-4922-a750-080784940cd7",
+        "4a3cba6b-82fc-4f50-a58f-8883e5f912b1",
+        "2d3af44d-584f-493d-b10d-431b3f4c1467",
+        "292d6ef5-3412-44b4-8f81-1b962b5ef773",
+        "1a7b1e71-cf21-485d-9e6a-b99352badd76",
+        "8aa01271-e9d5-4cd7-957c-2dccb8aa914a",
+        "87851890-2db0-4c4b-8503-facebbf9f3be",
+        "6521ed62-b4e3-4231-abad-3105ce128ac2",
+        "8ba30ded-db08-4e0a-b467-33f3d08f8ec1"
+    ],
+    "filterType": "GMObject",
+    "folderName": "objects",
+    "isDefaultView": false,
+    "localisedFolderName": "ResourceTree_Objects"
+}

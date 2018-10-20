@@ -1,0 +1,221 @@
+Converting GML script: ${project_dir}\scripts\scr_globals\scr_globals.gml
+Converted description /// @description scr_globals();/// @function scr_globals
+
+Converting GML script: ${project_dir}\scripts\scr_deinit_globals\scr_deinit_globals.gml
+Converted description /// @description scr_deinit_globals()/// @function scr_deinit_globals
+
+Converting GML script: ${project_dir}\scripts\scr_init_gamepad\scr_init_gamepad.gml
+Converted description /// @description scr_init_gamepad()/// @function scr_init_gamepad
+
+Converting GML script: ${project_dir}\scripts\scr_destroy_gamepad\scr_destroy_gamepad.gml
+Converted description /// @description scr_destroy_gamepad()/// @function scr_destroy_gamepad
+
+Converting GML script: ${project_dir}\scripts\scr_gamepad_register\scr_gamepad_register.gml
+Converted description /// @description  scr_gamepad_register(device)/// @function  scr_gamepad_register
+/// @param device
+
+Converting GML script: ${project_dir}\scripts\scr_gamepad_register_all\scr_gamepad_register_all.gml
+Converted description /// @description  scr_gamepad_register_all()/// @function  scr_gamepad_register_all
+
+Converting GML script: ${project_dir}\scripts\scr_gamepad_register_all_ext\scr_gamepad_register_all_ext.gml
+Converted description /// @description  scr_gamepad_register_all_ext(axis_deadzone, button_threshold)/// @function  scr_gamepad_register_all_ext
+/// @param axis_deadzone
+/// @param  button_threshold
+
+Converting GML script: ${project_dir}\scripts\scr_gamepad_unregister\scr_gamepad_unregister.gml
+Converted description /// @description  scr_gamepad_unregister(device)/// @function  scr_gamepad_unregister
+/// @param device
+
+Converting GML script: ${project_dir}\scripts\scr_is_button_gamepad\scr_is_button_gamepad.gml
+Converted description /// @description scr_is_button_gamepad(button)/// @function scr_is_button_gamepad
+/// @param button
+
+Converting GML script: ${project_dir}\scripts\scr_gamepad_trigger_button\scr_gamepad_trigger_button.gml
+Converted description /// @description scr_gamepad_trigger_button(device, device_type, button)/// @function scr_gamepad_trigger_button
+/// @param device
+/// @param  device_type
+/// @param  button
+
+Converting GML script: ${project_dir}\scripts\scr_gamepad_trigger_axis\scr_gamepad_trigger_axis.gml
+Converted description /// @description scr_gamepad_trigger_axis(device, device_type, button, state)/// @function scr_gamepad_trigger_axis
+/// @param device
+/// @param  device_type
+/// @param  button
+/// @param  state
+
+Converting GML script: ${project_dir}\scripts\scr_gamepad_trigger_event\scr_gamepad_trigger_event.gml
+Converted description /// @description scr_gamepad_trigger_event(button, device, device_type, button_state, value)/// @function scr_gamepad_trigger_event
+/// @param button
+/// @param  device
+/// @param  device_type
+/// @param  button_state
+/// @param  value
+
+Converting GML script: ${project_dir}\scripts\scr_test_button_event\scr_test_button_event.gml
+Converted description /// @description scr_test_button_press(button, device, device_type, button_state)/// @function scr_test_button_press
+/// @param button
+/// @param  device
+/// @param  device_type
+/// @param  button_state
+
+Converting GML script: ${project_dir}\scripts\scr_test_button_ext_event\scr_test_button_ext_event.gml
+Converted description /// @description scr_test_button_ext_event(button, device, device_type, button_state, value)/// @function scr_test_button_ext_event
+/// @param button
+/// @param  device
+/// @param  device_type
+/// @param  button_state
+/// @param  value
+
+Converting GML script: ${project_dir}\scripts\scr_test_axis_event\scr_test_axis_event.gml
+Converted description /// @description scr_test_axis_event(button, device, device_type, state, value)/// @function scr_test_axis_event
+/// @param button
+/// @param  device
+/// @param  device_type
+/// @param  state
+/// @param  value
+
+Converting GML script: ${project_dir}\scripts\scr_axis_movement_h\scr_axis_movement_h.gml
+Converted description /// @description scr_axis_movement_h(button, device, device_type, state, value)/// @function scr_axis_movement_h
+/// @param button
+/// @param  device
+/// @param  device_type
+/// @param  state
+/// @param  value
+
+Converting GML script: ${project_dir}\scripts\scr_gamepad_globals\scr_gamepad_globals.gml
+Converted description /// @description scr_gamepad_globals()/// @function scr_gamepad_globals
+
+Converting GML script: ${project_dir}\scripts\scr_axis_movement_v\scr_axis_movement_v.gml
+Converted description /// @description scr_axis_movement_v(button, device, device_type, state, value)/// @function scr_axis_movement_v
+/// @param button
+/// @param  device
+/// @param  device_type
+/// @param  state
+/// @param  value
+
+Converting GML script: ${project_dir}\scripts\scr_axis_direction_h\scr_axis_direction_h.gml
+Converted description /// @description scr_axis_direction_h(button, device, device_type, state, value)/// @function scr_axis_direction_h
+/// @param button
+/// @param  device
+/// @param  device_type
+/// @param  state
+/// @param  value
+
+Converting GML script: ${project_dir}\scripts\scr_highlight_button\scr_highlight_button.gml
+Converted description /// @description scr_highlight_button(button, device, device_type, button_state)/// @function scr_highlight_button
+/// @param button
+/// @param  device
+/// @param  device_type
+/// @param  button_state
+
+Converting GML script: ${project_dir}\scripts\scr_axis_direction_v\scr_axis_direction_v.gml
+Converted description /// @description scr_axis_direction_v(button, device, device_type, state, value)/// @function scr_axis_direction_v
+/// @param button
+/// @param  device
+/// @param  device_type
+/// @param  state
+/// @param  value
+
+Converting GML script: ${project_dir}\scripts\scr_highlight_dpad\scr_highlight_dpad.gml
+Converted description /// @description scr_highlight_dpad(button, device, device_type, button_state)/// @function scr_highlight_dpad
+/// @param button
+/// @param  device
+/// @param  device_type
+/// @param  button_state
+
+Converting GML script: ${project_dir}\scripts\scr_highlight_trigger\scr_highlight_trigger.gml
+Converted description /// @description scr_highlight_trigger(button, device, device_type, button_state, value)/// @function scr_highlight_trigger
+/// @param button
+/// @param  device
+/// @param  device_type
+/// @param  button_state
+/// @param  value
+
+Converting GML script: ${project_dir}\scripts\scr_highlight_axis\scr_highlight_axis.gml
+Converted description /// @description scr_highlight_axis(button, device, device_type, state, value)/// @function scr_highlight_axis
+/// @param button
+/// @param  device
+/// @param  device_type
+/// @param  state
+/// @param  value
+
+Converting GML script: ${project_dir}\scripts\map_2d_get_value\map_2d_get_value.gml
+Converted description /// @description map_2d_get_value(map, x_key, y_key)/// @function map_2d_get_value
+/// @param map
+/// @param  x_key
+/// @param  y_key
+
+Converting GML script: ${project_dir}\scripts\map_2d_get_value_ext\map_2d_get_value_ext.gml
+Converted description /// @description map_2d_get_value_ext(map, x_key, y_key, default)/// @function map_2d_get_value_ext
+/// @param map
+/// @param  x_key
+/// @param  y_key
+/// @param  default
+
+Converting GML script: ${project_dir}\scripts\map_2d_set_value\map_2d_set_value.gml
+Converted description /// @description map_2d_set_value(map, x_key, y_key, value)/// @function map_2d_set_value
+/// @param map
+/// @param  x_key
+/// @param  y_key
+/// @param  value
+
+Converting GML script: ${project_dir}\scripts\map_get_value\map_get_value.gml
+Converted description /// @description map_get_value(map, key, default)/// @function map_get_value
+/// @param map
+/// @param  key
+/// @param  default
+
+Converting GML script: ${project_dir}\scripts\map_2D_destroy\map_2D_destroy.gml
+Converted description /// @description map_2D_destroy(map)/// @function map_2D_destroy
+/// @param map
+
+Converting GML script: ${project_dir}\objects\oDebugObject\Create_0.gml
+Converted description /// @description  Register events
+
+Converting GML script: ${project_dir}\objects\oDebugObject\Destroy_0.gml
+Converted description /// @description  Unregister
+
+Converting GML script: ${project_dir}\objects\oMovingObject\Create_0.gml
+Converted description /// @description  Register events
+
+Converting GML script: ${project_dir}\objects\oMovingObject\Destroy_0.gml
+Converted description /// @description  Unregister
+
+Converting GML script: ${project_dir}\objects\oMovingObject\Step_1.gml
+Converted description /// @description Reset Speed
+
+Converting GML script: ${project_dir}\objects\oInputWatcher\Create_0.gml
+Converted description /// @description  Instance variables
+
+Converting GML script: ${project_dir}\objects\oInputWatcher\Destroy_0.gml
+Converted description /// @description  Free up memory
+
+Converting GML script: ${project_dir}\objects\oInputWatcher\Step_0.gml
+Converted description /// @description  Check for input
+
+Converting GML script: ${project_dir}\objects\oInputWatcher\Other_75.gml
+Converted description /// @description  Gamepad added / lost event
+
+Converting GML script: ${project_dir}\objects\oGamePadButtonBasic\Create_0.gml
+Converted description /// @description  Variables
+
+Converting GML script: ${project_dir}\objects\oGamePadButtonBasic\Alarm_11.gml
+Converted description /// @description  Constructor
+
+Converting GML script: ${project_dir}\objects\oGamePadAxisBasic\Draw_0.gml
+Converted description /// @description  Draw bar
+
+Converting GML script: ${project_dir}\objects\oGamePadDPadBasic\Draw_0.gml
+Converted description /// @description  Draw dpad
+
+Converting GML script: ${project_dir}\objects\oGamePadTriggerBasic\Draw_0.gml
+Converted description /// @description  Draw bar
+
+Converting GML script: ${project_dir}\objects\oGamepadRings\Create_0.gml
+Converted description /// @description  Variables
+
+Converting GML script: ${project_dir}\objects\oGamepadRings\Draw_0.gml
+Converted description /// @description  Draw image w/ last controller used as ring
+
+Added compatibility script 'action/action_inherited.gml'
+Updated compatibility script '__global_object_depths.gml'
